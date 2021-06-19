@@ -1,2 +1,2 @@
 # django_skills-Assignment
-Just a Demo assignment 
+Just Trying basic Django Admin panel
